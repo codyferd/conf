@@ -1,2 +1,2 @@
 # conf
-My hyprland config
+My hyprland config.
