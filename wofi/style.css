@@ -1,0 +1,18 @@
+window {
+  border-radius: 16px;
+  background-color: #000000;
+  color: #cdd6f4;
+  font-family: MapleMono, monospace;
+}
+
+#entry:selected {
+  background-color: #947fe9;
+  color: #000000;
+}
+
+#input {
+  border: none;
+  background: #000000;
+  padding: 5px;
+  border-radius: 16px;
+}
