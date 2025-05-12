@@ -1,0 +1,3 @@
+First, install the dependencies from hypr/hyprland.conf
+(Listed in first comment), and then copy the contents
+of this directory to ~/.config/, and then watch the magic.

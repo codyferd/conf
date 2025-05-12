@@ -1,0 +1,8 @@
+show = drun
+term = konsole
+prompt = Search:
+insensitive = true
+width = 1000
+lines = 25
+location = center
+allow_markup = true
