@@ -1,0 +1,27 @@
+* {
+    border-radius: 16px;
+    background-color: #000000;
+    text-color: #ffffff;
+    font: "MapleMono 12";
+}
+
+window {
+    padding: 10px;
+}
+
+inputbar {
+    children: [prompt, entry ];
+    background-color: #000000;
+    border-radius: 16px;
+    padding: 5px;
+}
+
+entry {
+    background-color: transparent;
+    text-color: #ffffff;
+}
+
+entry selected {
+    background-color: #947fe9;
+    text-color: #000000;
+}

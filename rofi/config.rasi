@@ -1,0 +1,13 @@
+configuration {
+    modi: "drun";
+    terminal: "ghostty";
+    prompt: "Search:";
+    case-sensitive: false;
+    show-icons: true;
+    display-drun: "";
+    drun-display-format: "{name}";
+    location: 0;
+    lines: 50;
+    width: 500;
+}
+@theme "~/.config/rofi/other.rasi"
