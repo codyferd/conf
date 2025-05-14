@@ -24,6 +24,7 @@
         "battery",
         "clock",
         "tray",
+        "custom/terminal",
         "custom/power"
     ],
     // Modules configuration
@@ -189,6 +190,11 @@
         "on-click": "rofi -show drun",
         "tooltip": false,
         "max-length": 32
+    },
+    "custom/terminal": {
+        "format": "  ",  // You can use any icon here
+        "tooltip": false,
+        "on-click": "ghostty"  // Replace 'foot' with your terminal: kitty, alacritty, wezterm, etc.
     },
     "custom/power": {
         "format" : " ⏻  ",
